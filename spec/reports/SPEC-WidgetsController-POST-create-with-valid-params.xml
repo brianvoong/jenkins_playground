@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="WidgetsController POST #create with valid params" tests="3" time="0.004315" failures="0" errors="0" skipped="3" timestamp="2015-07-15T15:13:44-07:00">
+  <testcase name="WidgetsController POST #create with valid params creates a new Widget (PENDING)" time="0.002932">
+    <skipped/>
+  </testcase>
+  <testcase name="WidgetsController POST #create with valid params assigns a newly created widget as @widget (PENDING)" time="0.000585">
+    <skipped/>
+  </testcase>
+  <testcase name="WidgetsController POST #create with valid params redirects to the created widget (PENDING)" time="0.000527">
+    <skipped/>
+  </testcase>
+</testsuite>

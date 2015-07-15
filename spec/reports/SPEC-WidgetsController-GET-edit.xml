@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="WidgetsController GET #edit" tests="1" time="0.001122" failures="0" errors="0" skipped="1" timestamp="2015-07-15T15:13:44-07:00">
+  <testcase name="WidgetsController GET #edit assigns the requested widget as @widget (PENDING)" time="0.00087">
+    <skipped/>
+  </testcase>
+</testsuite>
